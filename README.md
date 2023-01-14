@@ -1,7 +1,7 @@
 ![MasterHead](https://cdn.discordapp.com/attachments/811325863969816576/1063512540602175568/brux22.png)
 
 <h1 align="center">☄️ I'm BruX ☄️</h1>
-<h3 align="center">"Coding is a form of communication that allows us to express our ideas and bring them to life" I'm BruX, and I'm just here to do my part and to do things i'm appassionate about 🖥</h3>
+<h3 align="center">"Coding is a form of communication that allows us to express our ideas and bring them to life" I'm BruX, and I'm just here to do my part and to do things i'm passionate about 🖥</h3>
 
 
 - 🌌 How to reach me **bruxdev@gmail.com**
